@@ -1,0 +1,7 @@
+.Empty {
+  display: flex;
+  flex-direction: column;
+  flex: 0.75;
+  background-color: #eee;
+  border-radius: 5px;
+}

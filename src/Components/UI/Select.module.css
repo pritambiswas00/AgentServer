@@ -1,0 +1,16 @@
+.select {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  width: 100%;
+}
+.select label {
+  font-weight: bold;
+}
+.select select {
+  width: 71%;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font: inherit;
+}
